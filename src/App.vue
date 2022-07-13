@@ -1,26 +1,25 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <div class="bg">
+    <div class="profile">
+      <ProfileLeft/>
+      <ProfileRight/>
+    </div>
+    <div class="copyright">
+      <span>© 2020 All rights reserved.</span>
+    </div>
+  </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import ProfileLeft from './components/ProfileLeft.vue'
+import ProfileRight from './components/ProfileRight.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    ProfileRight,
+    ProfileLeft
   }
+
 }
 </script>
-
-<style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
-</style>
