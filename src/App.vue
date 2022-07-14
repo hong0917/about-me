@@ -11,8 +11,8 @@
 </template>
 
 <script>
-import ProfileLeft from './components/ProfileLeft.vue'
-import ProfileRight from './components/ProfileRight.vue'
+import ProfileLeft from './view/ProfileLeft.vue'
+import ProfileRight from './view/ProfileRight.vue'
 
 export default {
   name: 'App',
