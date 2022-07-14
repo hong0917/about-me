@@ -1,11 +1,9 @@
 <template>
   <div class="profile_right">
-    <transition name="fade">
-      <div class="site_content" v-show="showView">
+      <div class="site_content">
         <Intro></Intro>
         <Portpolio></Portpolio>
       </div>
-    </transition>
   </div>
 </template>
 
@@ -24,14 +22,6 @@ export default {
     Intro,
     Portpolio
   },
-  mounted(){
-    setTimeout(this.changeView,500)
-  },
-  methods:{
-    changeView(){
-        this.showView = !this.showView
-    },
-  }
 }
 </script>
 
