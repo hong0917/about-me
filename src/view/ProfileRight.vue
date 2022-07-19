@@ -1,8 +1,8 @@
 <template>
   <div class="profile_right">
       <div class="site_content">
-        <Intro></Intro>
-        <Portpolio></Portpolio>
+        <Intro v-show="true"></Intro>
+        <Portpolio v-show="false"></Portpolio>
       </div>
   </div>
 </template>

@@ -1,6 +1,8 @@
 <template>
-  <div class="intro content">
+  <div class="intro">
+    <div class="title">
     <h2>About <span>Me</span></h2>
+    </div>
     <div class="intro_left">
         <div class="">
 

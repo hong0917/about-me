@@ -9,7 +9,7 @@
     
     <transition name="fade">
     <div class="copyright" v-show="showView">
-      <span>© 2020 All rights reserved.</span>
+      <span>© 2022 All rights reserved.</span>
     </div>
     </transition>
   </div>
