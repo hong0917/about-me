@@ -1,5 +1,7 @@
 <template>
   <div class="bg">
+    <div class="star comet">
+    </div>
     <transition name="fade">
     <div class="profile" v-show="showView">
       <ProfileLeft/>

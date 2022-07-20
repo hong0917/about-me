@@ -2,7 +2,7 @@
   <div class="profile_left">
       <div class="site_header">
         <div class="header_photo">
-          <img src="../assets/img/lesser-panda.jpg" alt="photo">
+          <img src="../assets/img/KakaoTalk_20220720_215121441_01.jpg" alt="photo">
         </div>
         <div class="header_title">
           <h2>Lesser_Hong</h2>
@@ -14,13 +14,20 @@
       </div>
 
       <div class="main_menu">
+      <div class="main_menu_social">
         <ul class="social-links">
           <li><a href=""><img class="icon" src="../assets/img/facebook.png" alt="facebook_icon"></a></li>
           <li><a href=""><img class="icon" src="../assets/img/premium-icon-instagram-3991634.png" alt="instagram_icon"></a></li>
           <li><a href=""><img class="icon" src="../assets/img/free-icon-github-sign-25657.png" alt="github_icon"></a></li>
+        </ul>
+      </div>
+
+      <div class="main_menu_nav">
+        <ul class="nav">
           <li><a href=""><img class="icon" src="../assets/img/back.png" alt="back_icon"></a></li>
           <li><a href=""><img class="icon" src="../assets/img/next.png" alt="next_icon"></a></li>
         </ul>
+      </div>
       </div>
   </div>
 </template>
