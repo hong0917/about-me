@@ -5,7 +5,7 @@
           <img src="../assets/img/KakaoTalk_20220720_215121441_01.jpg" alt="photo">
         </div>
         <div class="header_title">
-          <h2>Lesser_Hong</h2>
+          <h2>Lesser_Panda</h2>
           <h4>Backend Developer</h4>
         </div>
         <div class="header_btn">

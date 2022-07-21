@@ -1,3 +1,7 @@
+.bg{
+  font-family: 'Ubuntu', sans-serif;
+}
+
 .fade-enter-from {
   opacity: 0;
 }
