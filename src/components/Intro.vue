@@ -1,17 +1,19 @@
 <template>
-  <div class="intro">
+  <div class="intro" id="side">
     <div class="title">
     <h2>About <span>Me</span></h2>
     </div>
-    <div class="intro_left">
-        <div class="">
+    <div class="intro_content">
+      <div class="content_left">
+          <div class="hello">
+            <q>안녕하세요. 백엔드 개발자입니다 어쩌구 저쩌구 쉘라쉘라 어쩌구 저쩌구 쉘라쉘라 어쩌구 저쩌구 쉘라쉘라</q>
+          </div>
+      </div>
+      <div class="content_right">
+          <div class="">
 
-        </div>
-    </div>
-    <div class="intro_right">
-        <div class="">
-
-        </div>
+          </div>
+      </div>
     </div>
   </div>
 </template>

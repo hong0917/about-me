@@ -2,6 +2,9 @@
   font-family: 'Ubuntu', sans-serif;
 }
 
+#side {-ms-overflow-style: none; /* IE and Edge */scrollbar-width: none; /* Firefox */}
+#side::-webkit-scrollbar {display: none; /* Chrome, Safari, Opera*/}
+
 .fade-enter-from {
   opacity: 0;
 }

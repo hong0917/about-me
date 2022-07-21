@@ -30,6 +30,11 @@
 .site_content { width: 90%; height: 100%; margin: 3rem auto; overflow: hidden;}
 
 /* intro */
+.intro{height: 70vh; overflow: scroll;}
+.intro_content{width: 100%; display: flex; flex-direction: row; flex-wrap: nowrap; justify-content: space-between;}
 .intro h2{ font-size: 2rem; font-weight: bold; position: relative; display: inline-block;}
 .intro h2:after{position: absolute;  opacity: 0.45; top: 0; right: -20px; content: '';  height: 30px;  width: 30px; background-repeat: no-repeat;  background-image: url("../img/moon.png");  background-size: 30px 30px;  z-index: 0;}
 .intro h2 span{ color: var(--icon-color); }
+
+.content_left{ width: 65%; height: 800px; background-color: yellow; margin-top: 20px;}
+.content_right{ width: 30%; height: 800px; background-color: green; margin-top: 20px;}
