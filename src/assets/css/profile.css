@@ -36,5 +36,5 @@
 .intro h2:after{position: absolute;  opacity: 0.45; top: 0; right: -20px; content: '';  height: 30px;  width: 30px; background-repeat: no-repeat;  background-image: url("../img/moon.png");  background-size: 30px 30px;  z-index: 0;}
 .intro h2 span{ color: var(--icon-color); }
 
-.content_left{ width: 65%; height: 2000px; background-color: yellow; margin-top: 20px;}
-.content_right{ width: 30%; height: 2000px; background-color: green; margin-top: 20px;}
+.content_left{ width: 60%; height: 2000px; margin-top: 20px;}
+.content_right{ width: 38%; height: 2000px; margin-top: 20px;}
