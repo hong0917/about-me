@@ -27,7 +27,7 @@
 .icon{ width: 1.4rem; height: 1.4rem;}
 
 /* ProfileRight */
-.profile_right { width: 73%; min-height: 82vh; background-color: white; box-shadow: 0 0 100px -5px rgb(0, 0, 0, 0.4); border-radius: 30px;}
+.profile_right { width: 73%; min-height: 83vh; background-color: white; box-shadow: 0 0 100px -5px rgb(0, 0, 0, 0.4); border-radius: 30px;}
 .site_content { width: 95%; height: 100%; margin: 3rem auto; overflow: hidden;}
 
 /* intro */
