@@ -16,16 +16,16 @@
       <div class="main_menu">
       <div class="main_menu_social">
         <ul class="social-links">
-          <li><a href=""><img class="icon" src="../assets/img/facebook.png" alt="facebook_icon"></a></li>
-          <li><a href=""><img class="icon" src="../assets/img/premium-icon-instagram-3991634.png" alt="instagram_icon"></a></li>
-          <li><a href=""><img class="icon" src="../assets/img/free-icon-github-sign-25657.png" alt="github_icon"></a></li>
+          <li><a href="https://www.facebook.com/profile.php?id=100003718911406"><img class="icon" src="../assets/img/facebook.png" alt="facebook_icon"></a></li>
+          <li><a href="https://www.instagram.com/inhongyou/"><img class="icon" src="../assets/img/premium-icon-instagram-3991634.png" alt="instagram_icon"></a></li>
+          <li><a href="https://github.com/hong0917"><img class="icon" src="../assets/img/free-icon-github-sign-25657.png" alt="github_icon"></a></li>
         </ul>
       </div>
 
       <div class="main_menu_nav">
         <ul class="nav">
-          <li><a href=""><img class="icon" src="../assets/img/back.png" alt="back_icon"></a></li>
-          <li><a href=""><img class="icon" src="../assets/img/next.png" alt="next_icon"></a></li>
+          <li><button><img class="icon" src="../assets/img/back.png" alt="back_icon"></button></li>
+          <li><button><img class="icon" src="../assets/img/next.png" alt="next_icon"></button></li>
         </ul>
       </div>
       </div>
