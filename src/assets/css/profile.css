@@ -46,3 +46,14 @@
 
 /* portpolio */
 .portpolio{height: 70vh; overflow-y: scroll; padding: 0 30px;}
+
+.list{margin-top: 50px;}
+.list ul li{height: 80px; display: block; position: relative;}
+.list ul li:hover{background-color: rgba(0, 0, 0, 0.103); color: black !important;}
+.list ul li:hover::after{position: absolute; top: 30%; right: 30px; content: " "; height: 30px;  width: 30px; background-repeat: no-repeat;  background-image: url("../img/page.png");  background-size: 30px 30px;}
+.list ul li:hover .item_title,.list ul li:hover .item_date{color: black !important;}
+
+.list .item{padding: 20px;}
+
+/* portItem */
+.portItem{position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: white;}
