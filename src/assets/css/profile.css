@@ -56,4 +56,4 @@
 .list .item{padding: 20px;}
 
 /* portItem */
-.portItem{position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: white;}
+.portItem{position: absolute; z-index: 1000; top: 0; left: 0; padding: 30px; width: 100%; height: 76vh; background-color: white; border-radius: 30px; box-shadow: inset 0px 0px 30px 30px rgba(237, 205, 163, 0.8);}
